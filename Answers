@@ -15,3 +15,13 @@ Effective data collection allows businesses to gain valuable insights into custo
 
 The technical implications of data collection encompass the integration of diverse data sources, handling high data volumes, and ensuring data quality through preprocessing. Data storage involves selecting scalable architectures, implementing security measures such as encryption and access controls, and establishing robust backup and recovery systems. Addressing data biases requires the development of detection and mitigation techniques, the creation of fair algorithms and models, and the inclusion of diverse data in training sets. These technical considerations underscore the complexity of managing data effectively while safeguarding against biases and ensuring data security.
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Instructions: 
+Given the work required to bring a solution like this to maturity and its performance, what considerations would you make to determine if this is a suitable course of action?
+
+Given the work required to bring a solution like this to maturity and its performance, there are a few considerations to make to determine if this is a suitable course of action. For one, from testing the model, it's performance was not the greatest and so more time would need to be spent perhaps choosing a different machine learning model for prediction (perhaps the use of neural networks could be more beneficial). For better prediction, perhaps collecting more data would be useful. There were some biases in the categorical columns of the data and so collecting more information on underrepresented groups could improve the model. Another important consideration to make is the overall business impact of using the model. Will it significantly reduce the workload of the workers by effectively guessing food orders?
+
