@@ -1,0 +1,17 @@
+Instructions:
+Consider implications of data collection, storage, and data biases you would consider relevant here considering Data Ethics, Business Outcomes, and Technical Implications
+
+1. Discuss Ethical implications of these factors
+
+There are numerous ethical implications of data collection, storage and data biases. One such ethical implication of data collection regards privacy. Privacy concerns arise when data is collected without explicit and informed consent of individuals. By ensuring that individuals understand what their data is being collected for and provide clear consent, the ethical issue of privacy here can be resolved. Additionally, a lack of transparency in data collection erodes trust. A major ethical concern of data storage is data breaches and security lapses which can lead to unauthorized access, identity theft, and other harms. Data breaches of this particular dataset are not as concerning as the information is anonymized. Investing in both avid security measures as well as anonymizing information is crucial in preventing against data breaches. Finally, biases in data can perpetuate or exacerbate existing inequalities and discrimination.                                         
+
+
+2. Discuss Business outcome implications of these factors
+
+Effective data collection allows businesses to gain valuable insights into customer behavior, preferences, and interactions. This, in turn, enables them to tailor products and services more effectively, leading to increased customer satisfaction and loyalty. Additionally, ensuring data security is a fundamental concern for businesses. Data breaches can result in a loss of trust, reputation damage, and financial losses. Investing in robust data storage security measures is essential to maintain the trust of customers and partners. Finally, addressing data biases is crucial for maintaining a positive reputation and trust among customers and stakeholders. Biased data can lead to discrimination, public backlash, and a tarnished image. By actively mitigating biases, businesses demonstrate their commitment to ethical practices and fair decision-making.
+
+
+3. Discuss Technical implications of these factors
+
+The technical implications of data collection encompass the integration of diverse data sources, handling high data volumes, and ensuring data quality through preprocessing. Data storage involves selecting scalable architectures, implementing security measures such as encryption and access controls, and establishing robust backup and recovery systems. Addressing data biases requires the development of detection and mitigation techniques, the creation of fair algorithms and models, and the inclusion of diverse data in training sets. These technical considerations underscore the complexity of managing data effectively while safeguarding against biases and ensuring data security.
+
